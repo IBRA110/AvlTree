@@ -18,3 +18,5 @@ log
 1
 2
 {\displaystyle \mu \leq {\tfrac {1}{2}}};[5] that is, sibling nodes can have hugely differing numbers of descendants.
+
+more https://en.wikipedia.org/wiki/AVL_tree
